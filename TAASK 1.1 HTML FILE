@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header> 
+        <a href="about">About</a>
+        <a href="news">Work</a>
+        <a href="contact">Contact</a>
+        
+    </header>
+
+    <div class="Frontimage"> 
+        <img src="logo.jpg" height="100%" width="100%">
+        <div class="hovertext">
+            <h2>Hey,I'm Sambhav</h2>
+        </div>
+    </div>
+    <br>
+    <br>
+    
+    <div><img src="photo.png" height="200" width="150" srcset=""></div>
+
+    <div>
+        <h5>I'm a full stack web developer based in Melbourne,Australia</h5>
+        <hr class="horizontal-line">
+    </div>
+
+    <div>
+        <h4>Here's what I've done so far</h4>
+        <br>
+        <img src="p1.jpg" width="150" height="150">
+       <p>Robotics System</p>
+    </div>
+
+    <div><img src="p2.jpg" width="150" height="150">
+        <p>Health Monitoring System</p>
+    </div>
+
+    <hr class="horizontal-line">
+        <span>
+            <h3>My photos</h3>
+        </span>
+        <br>
+
+    <div class="box">
+        
+
+    <img src="d1.jpg" width="150" height="150" alt="I1">
+    <img src="d2.jpg" width="150" height="150" alt="I2">
+    <img src="d3.jpg" width="150" height="150" alt="I3">
+    <img src="d4.jpg" width="150" height="150" alt="I4">
+    </div>
+   
+
+</body>
+
+</html>
